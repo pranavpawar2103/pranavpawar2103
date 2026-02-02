@@ -31,7 +31,7 @@ I work across **Python/C++/SQL**, **PyTorch/TensorFlow/Keras**, **LangChain/Lang
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="56"/><br><sub><b>Python</b></sub>
       </td>
       <td align="center" width="120">
-        <img src="https://openai.com/favicon.ico" height="56"/><br><sub><b>OpenAI</b></sub>
+        <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/technology/openai-wi0oregrfui0s0fg1v899.png/openai-0fcdwnou9mjkm8ygsz64zp.png?_a=DATAiZfmZAA0" height="56"/><br><sub><b>OpenAI</b></sub>
       </td>
       <td align="center" width="120">
         <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="56"/><br><sub><b>LangChain</b></sub>
@@ -257,33 +257,33 @@ I work across **Python/C++/SQL**, **PyTorch/TensorFlow/Keras**, **LangChain/Lang
 
 | Project | Description | Tech Stack | Highlights |
 |---------|-------------|------------|------------|
-| **[DocIntel - RAG Q&A System](https://github.com/pranavpawar2103/DocIntel)** | Production RAG system processing multi-format documents with intelligent semantic chunking | Python, FastAPI, ChromaDB, OpenAI, Streamlit | 85%+ answer accuracy<br>90%+ retrieval precision<br>Sub-3-second latency<br>~$0.01 per 100 queries |
-| **[Vision-Language Assistant](https://github.com/pranavpawar2103/Vision-Language-Assistant)** | Production vision-language pipeline for automated product descriptions | Python, PyTorch, BLIP-2, YOLOv8, Claude API, FastAPI | 10x cost reduction ($0.007/image)<br>4.2/5 quality score<br>89% detection accuracy<br>2s processing time |
+| **[DocIntel - RAG Q&A System](https://github.com/pranavpawar2103/docintel)** | Production RAG system processing multi-format documents with intelligent semantic chunking | Python, FastAPI, ChromaDB, OpenAI, Streamlit | 85%+ answer accuracy<br>90%+ retrieval precision<br>Sub-3-second latency<br>~$0.01 per 100 queries |
+| **[Vision-Language Assistant](https://github.com/pranavpawar2103/vision-language-assistant)** | Production vision-language pipeline for automated product descriptions | Python, PyTorch, BLIP-2, YOLOv8, Claude API, FastAPI | 10x cost reduction ($0.007/image)<br>4.2/5 quality score<br>89% detection accuracy<br>2s processing time |
 
 ### 🧠 Machine Learning Projects
 
 | Project | Description | Tech Stack | Highlights |
 |---------|-------------|------------|------------|
-| **[Dyslexia Prediction via Eye Tracking](https://github.com/pranavpawar2103/Dyslexia-Prediction)** | ML system for early dyslexia detection validated with medical professionals | Python, Scikit-learn, Healthcare ML | 91% accuracy<br>30% enhanced reliability with expert feedback |
-| **[Fish Behavior Prediction System](https://github.com/pranavpawar2103/Fish-Behavior-Prediction)** | Real-time fish behavior prediction using CNNs and computer vision | Python, PyTorch, OpenCV, CUDA | 25% improved detection accuracy<br>98% fish identification accuracy<br>40% faster training with CUDA |
+| **[Dyslexia Prediction via Eye Tracking](https://github.com/pranavpawar2103)** | ML system for early dyslexia detection validated with medical professionals | Python, Scikit-learn, Healthcare ML | 91% accuracy<br>30% enhanced reliability with expert feedback |
+| **[Fish Behavior Prediction System](https://github.com/pranavpawar2103)** | Real-time fish behavior prediction using CNNs and computer vision | Python, PyTorch, OpenCV, CUDA | 25% improved detection accuracy<br>98% fish identification accuracy<br>40% faster training with CUDA |
 
 ### 📊 Data Analytics Projects
 
 | Project | Description | Tech Stack | Highlights |
 |---------|-------------|------------|------------|
-| **[FraudScope: Financial Fraud Intelligence](https://github.com/pranavpawar2103/FraudScope)** | KPI-driven fraud monitoring dashboard | SQL, Power BI, DAX, Python | 100K+ records analyzed<br>40% faster investigation time |
-| **[HealthLens: Healthcare Performance Analytics](https://github.com/pranavpawar2103/HealthLens)** | Clinical operations dashboard | Python, Power BI, Pandas, SQL | 55,500+ hospital records<br>30% efficiency improvement |
-| **[CartWise: Market Basket Optimization](https://github.com/pranavpawar2103/CartWise)** | Product bundling recommendations | Python, Apriori, Pandas, Data Mining | 3M+ transactions analyzed<br>25 actionable bundles surfaced |
-| **[GASTech: Building Operations Analytics](https://github.com/pranavpawar2103/GASTech)** | HVAC and employee movement analysis | BigQuery, Data Studio, GIS, GCP | 100K+ records on GCP<br>20% decrease in inefficiencies |
+| **[FraudScope: Financial Fraud Intelligence](https://github.com/pranavpawar2103/FraudScope-Financial-Fraud-Intelligence)** | KPI-driven fraud monitoring dashboard | SQL, Power BI, DAX, Python | 100K+ records analyzed<br>40% faster investigation time |
+| **[HealthLens: Healthcare Performance Analytics](https://github.com/pranavpawar2103/HealthLens-Monitoring-healthcare-performance-and-trends)** | Clinical operations dashboard | Python, Power BI, Pandas, SQL | 55,500+ hospital records<br>30% efficiency improvement |
+| **[CartWise: Market Basket Optimization](https://github.com/pranavpawar2103/CartWise-Instacart-Market-Basket-Optimization-)** | Product bundling recommendations | Python, Apriori, Pandas, Data Mining | 3M+ transactions analyzed<br>25 actionable bundles surfaced |
+| **[GASTech: Building Operations Analytics](https://github.com/pranavpawar2103/Analyzing-GASTech-Building-Operations-Data)** | HVAC and employee movement analysis | BigQuery, Data Studio, GIS, GCP | 100K+ records on GCP<br>20% decrease in inefficiencies |
+| **[F1Track: Performance Analytics on Azure](https://github.com/pranavpawar2103/F1Track-Real-Time-Performance-Analytics-Using-Databricks)** | Real-time racing telemetry analysis | Azure, Databricks, Synapse, ADF | 50K+ lap records processed<br>35% faster telemetry analysis |
 
 ### ⚙️ Data Engineering Projects
 
 | Project | Description | Tech Stack | Highlights |
 |---------|-------------|------------|------------|
-| **[Test Automation Dashboard - Ford](https://github.com/pranavpawar2103/Ford-Test-Automation)** | Automated test case analysis and reporting system | Python, Pandas, CSV/Excel Processing | 1,200+ test cases processed<br>78% faster analysis<br>92% test coverage<br>10+ hours/week saved |
-| **[ForecastPro: Sales Forecasting via MLOps](https://github.com/pranavpawar2103/ForecastPro)** | Scalable forecasting pipeline with CI/CD | Airflow, PySpark, MLflow, Docker | 20% accuracy improvement<br>Automated training & deployment |
-| **[CareAllocate: Clinical Resource Optimization](https://github.com/pranavpawar2103/CareAllocate)** | ETL pipeline for 150 hospitals | PySpark, Looker, ETL, SQL | 60% reduction in reporting time<br>Centralized resource tracking |
-| **[F1Track: Performance Analytics on Azure](https://github.com/pranavpawar2103/F1Track)** | Real-time racing telemetry analysis | Azure, Databricks, Synapse, ADF | 50K+ lap records processed<br>35% faster telemetry analysis |
+| **[Test Automation Dashboard - Ford](https://github.com/pranavpawar2103)** | Automated test case analysis and reporting system | Python, Pandas, CSV/Excel Processing | 1,200+ test cases processed<br>78% faster analysis<br>92% test coverage<br>10+ hours/week saved |
+| **[ForecastPro: Sales Forecasting via MLOps](https://github.com/pranavpawar2103/ForecastPro-Scalable-Sales-Forecasting-via-MLOps-)** | Scalable forecasting pipeline with CI/CD | Airflow, PySpark, MLflow, Docker | 20% accuracy improvement<br>Automated training & deployment |
+| **[CareAllocate: Clinical Resource Optimization](https://github.com/pranavpawar2103/CareAllocate-Healthcare-Resource-Allocation)** | ETL pipeline for 150 hospitals | PySpark, Looker, ETL, SQL | 60% reduction in reporting time<br>Centralized resource tracking |
 
 > _More projects at [github.com/pranavpawar2103](https://github.com/pranavpawar2103?tab=repositories)_
 
