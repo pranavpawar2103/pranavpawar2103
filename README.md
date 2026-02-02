@@ -9,15 +9,15 @@
 
 ## 📌 About Me
 
-I'm an **AI/ML Engineer & Data Scientist** specializing in **Generative AI**, **Machine Learning**, **Data Analytics**, and **Data Engineering**. I build intelligent systems and extract actionable insights from complex datasets. I've delivered measurable impact by:
+I'm an **AI/ML Engineer & Computer Science graduate student** specializing in **Deep Learning**, **Computer Vision**, **NLP**, and **LLMs**. I build intelligent systems ranging from real-time behavior prediction to production-grade RAG applications. I've delivered measurable impact by:
 
-- 🤖 Building production **RAG systems** with **85%+ accuracy** and sub-3-second latency  
-- 💰 Achieving **10x cost reduction** ($0.007/image) in AI-powered vision pipelines  
-- 📊 Reducing investigation turnaround time by **40%** through fraud analytics  
-- 🏥 Improving operational efficiency by **30%** via healthcare dashboards  
-- ⚙️ Cutting manual reporting time by **60%** with automated ETL pipelines  
+- Building production **RAG systems** with **85%+ accuracy** and **sub-3-second latency**  
+- Developing **real-time fish behavior prediction** using CNNs, improving detection accuracy by **25%**
+- Achieving **10x cost reduction** in AI-powered vision pipelines  
+- Reducing model training time by **40%** through GPU-accelerated CUDA
+- Automating workflows saving **10+ hours/week** and achieving **92% test coverage**
 
-I work across **Python/SQL/R**, **TensorFlow/PyTorch/Scikit-learn**, **OpenAI/Claude APIs**, **Airflow/Spark/Docker**, and **AWS/GCP/Azure**—transforming data into intelligent, production-ready solutions.
+I work across **Python/C++/SQL**, **PyTorch/TensorFlow/Keras**, **LangChain/LangGraph**, **OpenCV/CUDA**, **Docker/Kubernetes**, and **AWS/Cloud platforms**—transforming complex problems into intelligent, production-ready solutions.
 
 ---
 
@@ -229,27 +229,25 @@ I work across **Python/SQL/R**, **TensorFlow/PyTorch/Scikit-learn**, **OpenAI/Cl
 
 ## 💼 Experience
 
-### 🚀 AI/ML Engineer — **Tech Innovations Inc.**
-*Jan 2023 - Present*
+**AI Researcher — University of Ottawa, Canada** *(Jan 2025 - Present)*  
+- Led development of real-time fish behavior prediction system using CNNs and computer vision, improving detection accuracy by 25%
+- Leveraged GPU-accelerated CUDA to reduce model training time by 40%
+- Analyzed 100+ hours of zebrafish interaction videos, extracting key behaviors using Python and OpenCV
+- Built custom tracking algorithm achieving 98% individual fish identification accuracy
 
-- 🤖 Leading development of **GenAI solutions** and ML models for production systems
-- 📊 Built **RAG-based chatbots** serving **10K+ users** with 85%+ answer accuracy
-- ⚡ Optimized model inference, **reducing latency by 40%** through quantization and caching
-- 🔄 Implemented **CI/CD pipelines** for automated model deployment and monitoring
+**Systems Software Intern — Ford, Canada** *(Jan 2024 - Apr 2024)*  
+- Automated test case analysis by building Python scripts to process 1,200+ test cases, saving 10+ hours/week
+- Developed real-time reporting dashboards achieving 78% faster analysis and 92% test coverage
+- Tracked Approved, In-Progress, and Completed test cases for automation readiness
 
-### 📈 Data Analyst Intern — **DataCorp Solutions**
-*Jun 2022 - Dec 2022*
+**AI Engineer Intern — StandardWings Technologies, India** *(Jan 2021 - Dec 2022)*  
+- Developed and deployed ML models for IoT-based healthcare applications, achieving 92% accuracy and reducing false positives by 30%
+- Built secure RESTful APIs and automated data pipelines, enhancing processing efficiency by 60%
+- Collaborated on production systems including RAMAC App and smart health monitoring platforms
 
-- 📊 Conducted comprehensive data analysis and created **interactive dashboards** for stakeholder reporting
-- ⚙️ Automated **ETL workflows**, reducing manual effort by **60%**
-- 📉 Identified cost-saving opportunities through data analysis, saving **$50K annually**
-
-### 🔧 Data Engineering Intern — **CloudData Systems**
-*Jan 2021 - May 2022*
-
-- 🏗️ Developed and maintained **data pipelines** processing **millions of records daily**
-- ✅ Implemented **data quality frameworks** and monitoring systems
-- 📊 Built **Airflow DAGs** for orchestrating complex ETL workflows
+**Software Engineer Intern — Siemens, India** *(Dec 2021 - Feb 2022)*  
+- Automated relay inventory management using Python, reducing manual errors by 50%
+- Executed 800+ relay tests, identifying and resolving system issues for optimal performance
 
 ---
 
@@ -259,33 +257,44 @@ I work across **Python/SQL/R**, **TensorFlow/PyTorch/Scikit-learn**, **OpenAI/Cl
 
 | Project | Description | Tech Stack | Highlights |
 |---------|-------------|------------|------------|
-| **[Vision-Language Assistant](https://github.com/pranavpawar2103)** | Production vision-language pipeline for automated product descriptions | Python, PyTorch, BLIP-2, YOLOv8, Claude API, FastAPI | 🎯 10x cost reduction ($0.007/image)<br>⭐ 4.2/5 quality score<br>📊 89% detection accuracy<br>⚡ 2s processing time |
-| **[DocIntel - RAG Q&A System](https://github.com/pranavpawar2103)** | Multi-format document processing with semantic chunking | Python, FastAPI, ChromaDB, OpenAI, Streamlit | ✅ 85%+ answer accuracy<br>🎯 90%+ retrieval precision<br>⚡ Sub-3-second latency |
+| **[DocIntel - RAG Q&A System](https://github.com/pranavpawar2103/DocIntel)** | Production RAG system processing multi-format documents with intelligent semantic chunking | Python, FastAPI, ChromaDB, OpenAI, Streamlit | 85%+ answer accuracy<br>90%+ retrieval precision<br>Sub-3-second latency<br>~$0.01 per 100 queries |
+| **[Vision-Language Assistant](https://github.com/pranavpawar2103/Vision-Language-Assistant)** | Production vision-language pipeline for automated product descriptions | Python, PyTorch, BLIP-2, YOLOv8, Claude API, FastAPI | 10x cost reduction ($0.007/image)<br>4.2/5 quality score<br>89% detection accuracy<br>2s processing time |
 
 ### 🧠 Machine Learning Projects
 
 | Project | Description | Tech Stack | Highlights |
 |---------|-------------|------------|------------|
-| **[Dyslexia Prediction via Eye Tracking](https://github.com/pranavpawar2103)** | ML system for early dyslexia detection | Python, Scikit-learn, Healthcare ML | 🎯 91% accuracy<br>👨‍⚕️ Validated with medical professionals |
+| **[Dyslexia Prediction via Eye Tracking](https://github.com/pranavpawar2103/Dyslexia-Prediction)** | ML system for early dyslexia detection validated with medical professionals | Python, Scikit-learn, Healthcare ML | 91% accuracy<br>30% enhanced reliability with expert feedback |
+| **[Fish Behavior Prediction System](https://github.com/pranavpawar2103/Fish-Behavior-Prediction)** | Real-time fish behavior prediction using CNNs and computer vision | Python, PyTorch, OpenCV, CUDA | 25% improved detection accuracy<br>98% fish identification accuracy<br>40% faster training with CUDA |
 
 ### 📊 Data Analytics Projects
 
 | Project | Description | Tech Stack | Highlights |
 |---------|-------------|------------|------------|
-| **[FraudScope: Financial Fraud Intelligence](https://github.com/pranavpawar2103)** | KPI-driven fraud monitoring dashboard | SQL, Power BI, DAX, Python | 📊 100K+ records analyzed<br>⏱️ 40% faster investigation time |
-| **[HealthLens: Healthcare Performance Analytics](https://github.com/pranavpawar2103)** | Clinical operations dashboard | Python, Power BI, Pandas, SQL | 🏥 55,500+ hospital records<br>📈 30% efficiency improvement |
-| **[CartWise: Market Basket Optimization](https://github.com/pranavpawar2103)** | Product bundling recommendations | Python, Apriori, Pandas, Data Mining | 🛒 3M+ transactions analyzed<br>📦 25 actionable bundles surfaced |
-| **[GASTech: Building Operations Analytics](https://github.com/pranavpawar2103)** | HVAC and employee movement analysis | BigQuery, Data Studio, GIS, GCP | 🏢 100K+ records on GCP<br>📉 20% decrease in inefficiencies |
+| **[FraudScope: Financial Fraud Intelligence](https://github.com/pranavpawar2103/FraudScope)** | KPI-driven fraud monitoring dashboard | SQL, Power BI, DAX, Python | 100K+ records analyzed<br>40% faster investigation time |
+| **[HealthLens: Healthcare Performance Analytics](https://github.com/pranavpawar2103/HealthLens)** | Clinical operations dashboard | Python, Power BI, Pandas, SQL | 55,500+ hospital records<br>30% efficiency improvement |
+| **[CartWise: Market Basket Optimization](https://github.com/pranavpawar2103/CartWise)** | Product bundling recommendations | Python, Apriori, Pandas, Data Mining | 3M+ transactions analyzed<br>25 actionable bundles surfaced |
+| **[GASTech: Building Operations Analytics](https://github.com/pranavpawar2103/GASTech)** | HVAC and employee movement analysis | BigQuery, Data Studio, GIS, GCP | 100K+ records on GCP<br>20% decrease in inefficiencies |
 
 ### ⚙️ Data Engineering Projects
 
 | Project | Description | Tech Stack | Highlights |
 |---------|-------------|------------|------------|
-| **[ForecastPro: Sales Forecasting via MLOps](https://github.com/pranavpawar2103)** | Scalable forecasting pipeline with CI/CD | Airflow, PySpark, MLflow, Docker | 🎯 20% accuracy improvement<br>🔄 Automated training & deployment |
-| **[CareAllocate: Clinical Resource Optimization](https://github.com/pranavpawar2103)** | ETL pipeline for 150 hospitals | PySpark, Looker, ETL, SQL | ⏱️ 60% reduction in reporting time<br>🏥 Centralized resource tracking |
-| **[F1Track: Performance Analytics on Azure](https://github.com/pranavpawar2103)** | Real-time racing telemetry analysis | Azure, Databricks, Synapse, ADF | 🏎️ 50K+ lap records processed<br>⚡ 35% faster telemetry analysis |
+| **[Test Automation Dashboard - Ford](https://github.com/pranavpawar2103/Ford-Test-Automation)** | Automated test case analysis and reporting system | Python, Pandas, CSV/Excel Processing | 1,200+ test cases processed<br>78% faster analysis<br>92% test coverage<br>10+ hours/week saved |
+| **[ForecastPro: Sales Forecasting via MLOps](https://github.com/pranavpawar2103/ForecastPro)** | Scalable forecasting pipeline with CI/CD | Airflow, PySpark, MLflow, Docker | 20% accuracy improvement<br>Automated training & deployment |
+| **[CareAllocate: Clinical Resource Optimization](https://github.com/pranavpawar2103/CareAllocate)** | ETL pipeline for 150 hospitals | PySpark, Looker, ETL, SQL | 60% reduction in reporting time<br>Centralized resource tracking |
+| **[F1Track: Performance Analytics on Azure](https://github.com/pranavpawar2103/F1Track)** | Real-time racing telemetry analysis | Azure, Databricks, Synapse, ADF | 50K+ lap records processed<br>35% faster telemetry analysis |
 
 > _More projects at [github.com/pranavpawar2103](https://github.com/pranavpawar2103?tab=repositories)_
+
+---
+
+## 🏆 Achievements & Certifications
+
+- **Winner at Design Day 2024** - University of Ottawa
+- **Teaching Assistant** - University of Ottawa (1 year 8 months)
+- **Head of the Department of Computer Science** - India
+- **AWS Academy Graduate** - AWS Academy Cloud Foundations
 
 ---
 
