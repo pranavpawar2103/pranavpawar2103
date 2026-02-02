@@ -11,11 +11,11 @@
 
 I'm an **AI/ML Engineer & Data Scientist** specializing in **Generative AI**, **Machine Learning**, **Data Analytics**, and **Data Engineering**. I build intelligent systems and extract actionable insights from complex datasets. I've delivered measurable impact by:
 
-- 🤖 Building production **RAG systems** with **85%+ accuracy** and sub-3-second latency  
-- 💰 Achieving **10x cost reduction** ($0.007/image) in AI-powered vision pipelines  
-- 📊 Reducing investigation turnaround time by **40%** through fraud analytics  
-- 🏥 Improving operational efficiency by **30%** via healthcare dashboards  
-- ⚙️ Cutting manual reporting time by **60%** with automated ETL pipelines  
+- Building production **RAG systems** with **85%+ accuracy** and sub-3-second latency  
+- Achieving **10x cost reduction** ($0.007/image) in AI-powered vision pipelines  
+- Reducing investigation turnaround time by **40%** through fraud analytics  
+- Improving operational efficiency by **30%** via healthcare dashboards  
+- Cutting manual reporting time by **60%** with automated ETL pipelines  
 
 I work across **Python/SQL/R**, **TensorFlow/PyTorch/Scikit-learn**, **OpenAI/Claude APIs**, **Airflow/Spark/Docker**, and **AWS/GCP/Azure**—transforming data into intelligent, production-ready solutions.
 
@@ -23,7 +23,7 @@ I work across **Python/SQL/R**, **TensorFlow/PyTorch/Scikit-learn**, **OpenAI/Cl
 
 ## 🧠 Skills
 
-### 🤖 Generative AI & LLMs
+### Generative AI & LLMs
 <p align="center">
   <table>
     <tr>
@@ -49,7 +49,7 @@ I work across **Python/SQL/R**, **TensorFlow/PyTorch/Scikit-learn**, **OpenAI/Cl
   </table>
 </p>
 
-### 🧠 Machine Learning & Deep Learning
+### Machine Learning & Deep Learning
 <p align="center">
   <table>
     <tr>
@@ -75,7 +75,7 @@ I work across **Python/SQL/R**, **TensorFlow/PyTorch/Scikit-learn**, **OpenAI/Cl
   </table>
 </p>
 
-### 📊 Data Analytics & Visualization
+### Data Analytics & Visualization
 <p align="center">
   <table>
     <tr>
@@ -101,7 +101,7 @@ I work across **Python/SQL/R**, **TensorFlow/PyTorch/Scikit-learn**, **OpenAI/Cl
   </table>
 </p>
 
-### ⚙️ Data Engineering & MLOps
+### Data Engineering & MLOps
 <p align="center">
   <table>
     <tr>
@@ -127,7 +127,7 @@ I work across **Python/SQL/R**, **TensorFlow/PyTorch/Scikit-learn**, **OpenAI/Cl
   </table>
 </p>
 
-### ☁️ Cloud & Data Platforms
+### Cloud & Data Platforms
 <p align="center">
   <table>
     <tr>
@@ -176,7 +176,7 @@ I work across **Python/SQL/R**, **TensorFlow/PyTorch/Scikit-learn**, **OpenAI/Cl
   </table>
 </p>
 
-### 💻 Programming & Development Tools
+### Programming & Development Tools
 <p align="center">
   <table>
     <tr>
@@ -202,7 +202,7 @@ I work across **Python/SQL/R**, **TensorFlow/PyTorch/Scikit-learn**, **OpenAI/Cl
   </table>
 </p>
 
-### 🚀 Frameworks & APIs
+### Frameworks & APIs
 <p align="center">
   <table>
     <tr>
@@ -229,82 +229,71 @@ I work across **Python/SQL/R**, **TensorFlow/PyTorch/Scikit-learn**, **OpenAI/Cl
 
 ## 💼 Experience
 
-### 🚀 AI/ML Engineer — **Tech Innovations Inc.**
+### AI/ML Engineer — **Tech Innovations Inc.**
 *Jan 2023 - Present*
 
-- 🤖 Leading development of **GenAI solutions** and ML models for production systems
-- 📊 Built **RAG-based chatbots** serving **10K+ users** with 85%+ answer accuracy
-- ⚡ Optimized model inference, **reducing latency by 40%** through quantization and caching
-- 🔄 Implemented **CI/CD pipelines** for automated model deployment and monitoring
+- Leading development of **GenAI solutions** and ML models for production systems
+- Built **RAG-based chatbots** serving **10K+ users** with 85%+ answer accuracy
+- Optimized model inference, **reducing latency by 40%** through quantization and caching
+- Implemented **CI/CD pipelines** for automated model deployment and monitoring
 
-### 📈 Data Analyst Intern — **DataCorp Solutions**
+### Data Analyst Intern — **DataCorp Solutions**
 *Jun 2022 - Dec 2022*
 
-- 📊 Conducted comprehensive data analysis and created **interactive dashboards** for stakeholder reporting
-- ⚙️ Automated **ETL workflows**, reducing manual effort by **60%**
-- 📉 Identified cost-saving opportunities through data analysis, saving **$50K annually**
+- Conducted comprehensive data analysis and created **interactive dashboards** for stakeholder reporting
+- Automated **ETL workflows**, reducing manual effort by **60%**
+- Identified cost-saving opportunities through data analysis, saving **$50K annually**
 
-### 🔧 Data Engineering Intern — **CloudData Systems**
+### Data Engineering Intern — **CloudData Systems**
 *Jan 2021 - May 2022*
 
-- 🏗️ Developed and maintained **data pipelines** processing **millions of records daily**
-- ✅ Implemented **data quality frameworks** and monitoring systems
-- 📊 Built **Airflow DAGs** for orchestrating complex ETL workflows
+- Developed and maintained **data pipelines** processing **millions of records daily**
+- Implemented **data quality frameworks** and monitoring systems
+- Built **Airflow DAGs** for orchestrating complex ETL workflows
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 Generative AI Projects
+### Generative AI Projects
 
 | Project | Description | Tech Stack | Highlights |
 |---------|-------------|------------|------------|
-| **[Vision-Language Assistant](https://github.com/pranavpawar2103)** | Production vision-language pipeline for automated product descriptions | Python, PyTorch, BLIP-2, YOLOv8, Claude API, FastAPI | 🎯 10x cost reduction ($0.007/image)<br>⭐ 4.2/5 quality score<br>📊 89% detection accuracy<br>⚡ 2s processing time |
-| **[DocIntel - RAG Q&A System](https://github.com/pranavpawar2103)** | Multi-format document processing with semantic chunking | Python, FastAPI, ChromaDB, OpenAI, Streamlit | ✅ 85%+ answer accuracy<br>🎯 90%+ retrieval precision<br>⚡ Sub-3-second latency |
+| **[Vision-Language Assistant](https://github.com/pranavpawar2103)** | Production vision-language pipeline for automated product descriptions | Python, PyTorch, BLIP-2, YOLOv8, Claude API, FastAPI | 10x cost reduction ($0.007/image)<br> 4.2/5 quality score<br>📊 89% detection accuracy<br> 2s processing time |
+| **[DocIntel - RAG Q&A System](https://github.com/pranavpawar2103)** | Multi-format document processing with semantic chunking | Python, FastAPI, ChromaDB, OpenAI, Streamlit | 85%+ answer accuracy<br> 90%+ retrieval precision<br> Sub-3-second latency |
 
-### 🧠 Machine Learning Projects
-
-| Project | Description | Tech Stack | Highlights |
-|---------|-------------|------------|------------|
-| **[Dyslexia Prediction via Eye Tracking](https://github.com/pranavpawar2103)** | ML system for early dyslexia detection | Python, Scikit-learn, Healthcare ML | 🎯 91% accuracy<br>👨‍⚕️ Validated with medical professionals |
-
-### 📊 Data Analytics Projects
+### Machine Learning Projects
 
 | Project | Description | Tech Stack | Highlights |
 |---------|-------------|------------|------------|
-| **[FraudScope: Financial Fraud Intelligence](https://github.com/pranavpawar2103)** | KPI-driven fraud monitoring dashboard | SQL, Power BI, DAX, Python | 📊 100K+ records analyzed<br>⏱️ 40% faster investigation time |
-| **[HealthLens: Healthcare Performance Analytics](https://github.com/pranavpawar2103)** | Clinical operations dashboard | Python, Power BI, Pandas, SQL | 🏥 55,500+ hospital records<br>📈 30% efficiency improvement |
-| **[CartWise: Market Basket Optimization](https://github.com/pranavpawar2103)** | Product bundling recommendations | Python, Apriori, Pandas, Data Mining | 🛒 3M+ transactions analyzed<br>📦 25 actionable bundles surfaced |
-| **[GASTech: Building Operations Analytics](https://github.com/pranavpawar2103)** | HVAC and employee movement analysis | BigQuery, Data Studio, GIS, GCP | 🏢 100K+ records on GCP<br>📉 20% decrease in inefficiencies |
+| **[Dyslexia Prediction via Eye Tracking](https://github.com/pranavpawar2103)** | ML system for early dyslexia detection | Python, Scikit-learn, Healthcare ML | 91% accuracy<br> Validated with medical professionals |
 
-### ⚙️ Data Engineering Projects
+### Data Analytics Projects
 
 | Project | Description | Tech Stack | Highlights |
 |---------|-------------|------------|------------|
-| **[ForecastPro: Sales Forecasting via MLOps](https://github.com/pranavpawar2103)** | Scalable forecasting pipeline with CI/CD | Airflow, PySpark, MLflow, Docker | 🎯 20% accuracy improvement<br>🔄 Automated training & deployment |
-| **[CareAllocate: Clinical Resource Optimization](https://github.com/pranavpawar2103)** | ETL pipeline for 150 hospitals | PySpark, Looker, ETL, SQL | ⏱️ 60% reduction in reporting time<br>🏥 Centralized resource tracking |
-| **[F1Track: Performance Analytics on Azure](https://github.com/pranavpawar2103)** | Real-time racing telemetry analysis | Azure, Databricks, Synapse, ADF | 🏎️ 50K+ lap records processed<br>⚡ 35% faster telemetry analysis |
+| **[FraudScope: Financial Fraud Intelligence](https://github.com/pranavpawar2103)** | KPI-driven fraud monitoring dashboard | SQL, Power BI, DAX, Python | 100K+ records analyzed<br>40% faster investigation time |
+| **[HealthLens: Healthcare Performance Analytics](https://github.com/pranavpawar2103)** | Clinical operations dashboard | Python, Power BI, Pandas, SQL | 55,500+ hospital records<br> 30% efficiency improvement |
+| **[CartWise: Market Basket Optimization](https://github.com/pranavpawar2103)** | Product bundling recommendations | Python, Apriori, Pandas, Data Mining | 3M+ transactions analyzed<br> 25 actionable bundles surfaced |
+| **[GASTech: Building Operations Analytics](https://github.com/pranavpawar2103)** | HVAC and employee movement analysis | BigQuery, Data Studio, GIS, GCP | 100K+ records on GCP<br> 20% decrease in inefficiencies |
 
----
+### Data Engineering Projects
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavpawar2103&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavpawar2103&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranavpawar2103&theme=tokyonight&hide_border=true)
-
-</div>
+| Project | Description | Tech Stack | Highlights |
+|---------|-------------|------------|------------|
+| **[ForecastPro: Sales Forecasting via MLOps](https://github.com/pranavpawar2103)** | Scalable forecasting pipeline with CI/CD | Airflow, PySpark, MLflow, Docker | 20% accuracy improvement<br> Automated training & deployment |
+| **[CareAllocate: Clinical Resource Optimization](https://github.com/pranavpawar2103)** | ETL pipeline for 150 hospitals | PySpark, Looker, ETL, SQL | 60% reduction in reporting time<br>Centralized resource tracking |
+| **[F1Track: Performance Analytics on Azure](https://github.com/pranavpawar2103)** | Real-time racing telemetry analysis | Azure, Databricks, Synapse, ADF | 50K+ lap records processed<br>35% faster telemetry analysis |
 
 ---
 
 ## 🎓 Education
 
-**B.Tech, Computer Science & Engineering — University Name** *(2018 - 2022, GPA 3.8/4.0)*  
-Coursework: Data Structures & Algorithms, Machine Learning, Deep Learning, Big Data Analytics, Database Systems, Cloud Computing, Natural Language Processing
+**Master of Computer Science — University of Ottawa** *(2023 - 2024, GPA 3.9/4.0)*  
+Coursework: Data Structures & Algorithms, Machine Learning, Natural Language Processing, AI for Cybersecurity, Distributed Database
+
+**B.Tech, Computer Science & Engineering with honors in Data Science — Savitribai Phule Pune University** *(2018 - 2022, GPA 9.13/10)*  
+Coursework: Object-Oriented Programming, Data Structures, Computer Networks, Database Management System, Data Science
 
 ---
 
