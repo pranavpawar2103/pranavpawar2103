@@ -167,10 +167,10 @@ I work across **Python/SQL/R**, **TensorFlow/PyTorch/Scikit-learn**, **OpenAI/Cl
         <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*KqNnfYtaVshGXbuGUCTOQw.png" height="32"/><br><sub><b>Amazon RDS</b></sub>
       </td>
       <td align="center" width="160">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonredshift.svg" height="32"/><br><sub><b>Amazon Redshift</b></sub>
+        <img src="https://cdn.worldvectorlogo.com/logos/aws-redshift-logo.svg" height="32"/><br><sub><b>Amazon Redshift</b></sub>
       </td>
       <td align="center" width="140">
-        <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/aws-glue.svg" height="32"/><br><sub><b>AWS Glue</b></sub>
+        <img src="https://symbols.getvecta.com/stencil_9/43_aws-glue.ef66031230.svg" height="32"/><br><sub><b>AWS Glue</b></sub>
       </td>
     </tr>
   </table>
