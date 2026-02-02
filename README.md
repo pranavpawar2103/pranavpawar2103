@@ -301,7 +301,7 @@ Coursework: Object-Oriented Programming, Data Structures, Computer Networks, Dat
 
 **Email:** ppawa018@uottawa.ca  
 **LinkedIn:** [linkedin.com/in/pranav-pawar](https://www.linkedin.com/in/pranav-pawar-4175741b3/)  
-**Portfolio:** [pranavpawar/Portfolio]([https://your-portfolio-link.com](https://pranavpawar2103.github.io/Portfolio/))
+**Portfolio:** [pranavpawar/Portfolio](https://pranavpawar2103.github.io/Portfolio/)
 
 ---
 _Thanks for stopping by—happy to connect, collaborate, or chat about AI & data!_
