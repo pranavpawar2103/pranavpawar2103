@@ -37,10 +37,10 @@ I work across **Python/SQL/R**, **TensorFlow/PyTorch/Scikit-learn**, **OpenAI/Cl
         <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="56"/><br><sub><b>LangChain</b></sub>
       </td>
       <td align="center" width="120">
-        <img src="https://www.anthropic.com/_next/image?url=%2Fimages%2Ficons%2Fclaude-app-icon.png&w=48&q=75" height="56"/><br><sub><b>Claude API</b></sub>
+        <img src="https://logowik.com/content/uploads/images/claude-ai9117.logowik.com.webp" height="56"/><br><sub><b>Claude API</b></sub>
       </td>
       <td align="center" width="120">
-        <img src="https://docs.trychroma.com/img/chroma.png" height="56"/><br><sub><b>ChromaDB</b></sub>
+        <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*Djc9EYMV8F3bZ-MxeG09cw.png" height="56"/><br><sub><b>ChromaDB</b></sub>
       </td>
       <td align="center" width="140">
         <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="56"/><br><sub><b>Hugging Face</b></sub>
@@ -118,7 +118,7 @@ I work across **Python/SQL/R**, **TensorFlow/PyTorch/Scikit-learn**, **OpenAI/Cl
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="56"/><br><sub><b>Kubernetes</b></sub>
       </td>
       <td align="center" width="120">
-        <img src="https://www.mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" height="56"/><br><sub><b>MLflow</b></sub>
+        <img src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2018/09/MLflow-logo.png" height="56"/><br><sub><b>MLflow</b></sub>
       </td>
       <td align="center" width="120">
         <img src="https://avatars.githubusercontent.com/u/36382177?s=200&v=4" height="56"/><br><sub><b>dbt</b></sub>
@@ -161,16 +161,16 @@ I work across **Python/SQL/R**, **TensorFlow/PyTorch/Scikit-learn**, **OpenAI/Cl
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/250px-Amazon-S3-Logo.svg.png" height="32"/><br><sub><b>Amazon S3</b></sub>
       </td>
       <td align="center" width="140">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/300px-Amazon_Lambda_architecture_logo.svg.png" height="32"/><br><sub><b>AWS Lambda</b></sub>
+        <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/aws-lambda.svg" height="32"/><br><sub><b>AWS Lambda</b></sub>
       </td>
       <td align="center" width="140">
         <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*KqNnfYtaVshGXbuGUCTOQw.png" height="32"/><br><sub><b>Amazon RDS</b></sub>
       </td>
       <td align="center" width="160">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Amazon-Redshift-Logo.svg/150px-Amazon-Redshift-Logo.svg.png" height="32"/><br><sub><b>Amazon Redshift</b></sub>
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonredshift.svg" height="32"/><br><sub><b>Amazon Redshift</b></sub>
       </td>
       <td align="center" width="140">
-        <img src="https://symbols.getvecta.com/stencil_25/41_aws-glue.7b6eb7cff7.svg" height="32"/><br><sub><b>AWS Glue</b></sub>
+        <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/aws-glue.svg" height="32"/><br><sub><b>AWS Glue</b></sub>
       </td>
     </tr>
   </table>
