@@ -1,85 +1,229 @@
 # 👋 Hi, I'm Pranav Pawar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pranav-pawar-4175741b3/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/pranavpawar2103)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-cyan?style=for-the-badge&logo=google-chrome)](https://your-portfolio-link.com)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:ppawa018@uottawa.ca)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-pawar-4175741b3/)
+[![GitHub](https://img.shields.io/badge/GitHub-111?logo=github&logoColor=white)](https://github.com/pranavpawar2103)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=safari&logoColor=white)](https://your-portfolio-link.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
 
 ## 📌 About Me
 
-I'm an **AI/ML Engineer & Data Scientist** specializing in **Generative AI**, **Machine Learning**, **Data Analytics**, and **Data Engineering**. I build intelligent systems and extract actionable insights from complex datasets to drive business value.
+I'm an **AI/ML Engineer & Data Scientist** specializing in **Generative AI**, **Machine Learning**, **Data Analytics**, and **Data Engineering**. I build intelligent systems and extract actionable insights from complex datasets. I've delivered measurable impact by:
 
-I've delivered measurable impact by:
-- 🤖 Building production RAG systems with **85%+ accuracy** and sub-3-second latency
-- 💰 Achieving **10x cost reduction** in AI-powered vision-language pipelines
-- 📊 Reducing investigation turnaround time by **40%** through fraud analytics
-- 🏥 Improving operational efficiency by **30%** via healthcare dashboards
-- ⚙️ Cutting manual reporting time by **60%** with automated ETL pipelines
+- 🤖 Building production **RAG systems** with **85%+ accuracy** and sub-3-second latency  
+- 💰 Achieving **10x cost reduction** ($0.007/image) in AI-powered vision pipelines  
+- 📊 Reducing investigation turnaround time by **40%** through fraud analytics  
+- 🏥 Improving operational efficiency by **30%** via healthcare dashboards  
+- ⚙️ Cutting manual reporting time by **60%** with automated ETL pipelines  
 
-I work across **Python/SQL/R**, **TensorFlow/PyTorch/Scikit-learn**, **OpenAI/Claude APIs**, **Airflow/Spark/Docker**, and **Cloud platforms (AWS/GCP/Azure)**—transforming data into intelligent, production-ready solutions.
+I work across **Python/SQL/R**, **TensorFlow/PyTorch/Scikit-learn**, **OpenAI/Claude APIs**, **Airflow/Spark/Docker**, and **AWS/GCP/Azure**—transforming data into intelligent, production-ready solutions.
 
 ---
 
 ## 🧠 Skills
 
 ### 🤖 Generative AI & LLMs
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat)
-![Claude](https://img.shields.io/badge/Claude_API-191919?style=flat)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat)
-![BLIP-2](https://img.shields.io/badge/BLIP--2-00D9FF?style=flat)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat)
-
-**Technologies:** RAG Systems, Prompt Engineering, Vector Databases, Fine-tuning, LlamaIndex, Hugging Face
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="56"/><br><sub><b>Python</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://openai.com/favicon.ico" height="56"/><br><sub><b>OpenAI</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="56"/><br><sub><b>LangChain</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://www.anthropic.com/_next/image?url=%2Fimages%2Ficons%2Fclaude-app-icon.png&w=48&q=75" height="56"/><br><sub><b>Claude API</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://docs.trychroma.com/img/chroma.png" height="56"/><br><sub><b>ChromaDB</b></sub>
+      </td>
+      <td align="center" width="140">
+        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="56"/><br><sub><b>Hugging Face</b></sub>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ### 🧠 Machine Learning & Deep Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-
-**Expertise:** Classification, Regression, Clustering, Computer Vision, NLP, Time Series Forecasting, Model Deployment
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="140">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="56"/><br><sub><b>TensorFlow</b></sub>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="56"/><br><sub><b>PyTorch</b></sub>
+      </td>
+      <td align="center" width="160">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="56"/><br><sub><b>Scikit-learn</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="56"/><br><sub><b>Keras</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" height="56"/><br><sub><b>OpenCV</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://www.edureka.co/blog/wp-content/uploads/2018/07/PySpark-logo-1.jpeg" height="56"/><br><sub><b>PySpark</b></sub>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ### 📊 Data Analytics & Visualization
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
-
-**Skills:** Statistical Analysis, KPI Development, Dashboard Design, Data Visualization, Exploratory Data Analysis
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="56"/><br><sub><b>SQL</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://img.icons8.com/color/48/tableau-software.png" height="56"/><br><sub><b>Tableau</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://img.icons8.com/color/48/power-bi.png" height="56"/><br><sub><b>Power BI</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="56"/><br><sub><b>Pandas</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="56"/><br><sub><b>NumPy</b></sub>
+      </td>
+      <td align="center" width="140">
+        <img src="https://matplotlib.org/stable/_static/logo_dark.svg" height="56"/><br><sub><b>Matplotlib</b></sub>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ### ⚙️ Data Engineering & MLOps
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="140">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="56"/><br><sub><b>Apache Spark</b></sub>
+      </td>
+      <td align="center" width="140">
+        <img src="https://airflow.apache.org/images/feature-image.png" height="56"/><br><sub><b>Airflow</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="56"/><br><sub><b>Docker</b></sub>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="56"/><br><sub><b>Kubernetes</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://www.mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" height="56"/><br><sub><b>MLflow</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://avatars.githubusercontent.com/u/36382177?s=200&v=4" height="56"/><br><sub><b>dbt</b></sub>
+      </td>
+    </tr>
+  </table>
+</p>
 
-**Technologies:** ETL Pipelines, Data Warehousing, PySpark, Kafka, CI/CD, Model Monitoring, dbt
+### ☁️ Cloud & Data Platforms
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://www.paubox.com/hubfs/What%20is%20AWS.jpg" height="56"/><br><sub><b>AWS</b></sub>
+      </td>
+      <td align="center" width="160">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="56"/><br><sub><b>Google Cloud</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="56"/><br><sub><b>Azure</b></sub>
+      </td>
+      <td align="center" width="140">
+        <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/snowflake-color.png" height="56"/><br><sub><b>Snowflake</b></sub>
+      </td>
+      <td align="center" width="160">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" height="56"/><br><sub><b>Databricks</b></sub>
+      </td>
+    </tr>
+  </table>
+</p>
 
-### ☁️ Cloud & Platforms
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+### AWS Services
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="140">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg/330px-AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg.png" height="32"/><br><sub><b>Amazon EC2</b></sub>
+      </td>
+      <td align="center" width="140">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/250px-Amazon-S3-Logo.svg.png" height="32"/><br><sub><b>Amazon S3</b></sub>
+      </td>
+      <td align="center" width="140">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/300px-Amazon_Lambda_architecture_logo.svg.png" height="32"/><br><sub><b>AWS Lambda</b></sub>
+      </td>
+      <td align="center" width="140">
+        <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*KqNnfYtaVshGXbuGUCTOQw.png" height="32"/><br><sub><b>Amazon RDS</b></sub>
+      </td>
+      <td align="center" width="160">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Amazon-Redshift-Logo.svg/150px-Amazon-Redshift-Logo.svg.png" height="32"/><br><sub><b>Amazon Redshift</b></sub>
+      </td>
+      <td align="center" width="140">
+        <img src="https://symbols.getvecta.com/stencil_25/41_aws-glue.7b6eb7cff7.svg" height="32"/><br><sub><b>AWS Glue</b></sub>
+      </td>
+    </tr>
+  </table>
+</p>
 
-**Services:** S3, EC2, Lambda, Redshift, BigQuery, Cloud Functions, Azure Synapse, Vertex AI
+### 💻 Programming & Development Tools
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="56"/><br><sub><b>Python</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="56"/><br><sub><b>R</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="56"/><br><sub><b>C++</b></sub>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="56"/><br><sub><b>JavaScript</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="56"/><br><sub><b>React</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="56"/><br><sub><b>Git</b></sub>
+      </td>
+    </tr>
+  </table>
+</p>
 
-### 💻 Programming & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+### 🚀 Frameworks & APIs
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="56"/><br><sub><b>FastAPI</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="56"/><br><sub><b>Streamlit</b></sub>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="56"/><br><sub><b>Jupyter</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="56"/><br><sub><b>PostgreSQL</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="56"/><br><sub><b>MongoDB</b></sub>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
@@ -159,91 +303,16 @@ I work across **Python/SQL/R**, **TensorFlow/PyTorch/Scikit-learn**, **OpenAI/Cl
 
 ## 🎓 Education
 
-### 🎓 **Bachelor of Technology in Computer Science**
-**University Name** | *2018 - 2022* | **GPA: 3.8/4.0**
-
-**Relevant Coursework:**
-- Machine Learning & Deep Learning
-- Big Data Analytics
-- Database Systems
-- Data Structures & Algorithms
-- Cloud Computing
-- Natural Language Processing
-
-**Achievements:**
-- 🏆 Academic Excellence Award
-- 📚 Dean's List - All Semesters
-- 🎯 Published research in AI/ML
+**B.Tech, Computer Science & Engineering — University Name** *(2018 - 2022, GPA 3.8/4.0)*  
+Coursework: Data Structures & Algorithms, Machine Learning, Deep Learning, Big Data Analytics, Database Systems, Cloud Computing, Natural Language Processing
 
 ---
 
-## 📚 Certifications
+## 📫 Contact
 
-- 🎓 **AWS Certified Solutions Architect**
-- 🎓 **Google Cloud Professional Data Engineer**
-- 🎓 **Microsoft Azure Data Scientist Associate**
-- 🎓 **Deep Learning Specialization** - deeplearning.ai
-- 🎓 **Machine Learning Engineering for Production (MLOps)** - deeplearning.ai
+**Email:** ppawa018@uottawa.ca  
+**LinkedIn:** [linkedin.com/in/pranav-pawar](https://www.linkedin.com/in/pranav-pawar-4175741b3/)  
+**Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)
 
 ---
-
-## 📈 Activity Graph
-
-[![Pranav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pranavpawar2103&theme=tokyo-night&hide_border=true)](https://github.com/pranavpawar2103)
-
----
-
-## 🏆 Achievements & Highlights
-
-```text
-🤖  Built 10+ Production AI/ML Models
-📊  Analyzed 1M+ Records Across Projects  
-⚡  Reduced Processing Time by 40% Average
-💰  Generated $100K+ in Cost Savings
-🎯  Maintained 90%+ Model Accuracy
-```
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-pawar-4175741b3/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranavpawar2103)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-
-</div>
-
----
-
-<div align="center">
-  
-### 💡 *"Turning data into intelligence, one model at a time"*
-
-![Visitor Count](https://profile-counter.glitch.me/pranavpawar2103/count.svg)
-
-**Thanks for visiting! Feel free to reach out for collaborations or just to chat about AI, data, and tech! 🚀**
-
-</div>
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🤖 Building Production-Ready RAG Systems
-- 📊 Data Pipeline Best Practices in 2024
-- 🧠 Fine-tuning LLMs for Domain-Specific Tasks
-- ⚡ Optimizing ML Model Inference Performance
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<div align="center">
-  
-*This README was generated with ❤️ and data-driven insights*
-
-</div>
+_Thanks for stopping by—happy to connect, collaborate, or chat about AI & data!_
