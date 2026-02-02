@@ -298,20 +298,6 @@ I work across **Python/C++/SQL**, **PyTorch/TensorFlow/Keras**, **LangChain/Lang
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavpawar2103&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavpawar2103&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranavpawar2103&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🎓 Education
 
 **Master of Computer Science — University of Ottawa** *(2023 - 2024, GPA 3.9/4.0)*  
