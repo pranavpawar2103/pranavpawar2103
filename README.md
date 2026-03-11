@@ -229,7 +229,7 @@ I work across **Python/C++/SQL**, **PyTorch/TensorFlow/Keras**, **LangChain/Lang
 
 ## 💼 Experience
 
-**AI Researcher — University of Ottawa, Canada** *(Jan 2025 - Present)*  
+**AI Researcher — University of Ottawa, Canada** *(Jan 2025 - Dec 2025)*  
 - Led development of real-time fish behavior prediction system using CNNs and computer vision, improving detection accuracy by 25%
 - Leveraged GPU-accelerated CUDA to reduce model training time by 40%
 - Analyzed 100+ hours of zebrafish interaction videos, extracting key behaviors using Python and OpenCV
