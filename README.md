@@ -257,6 +257,7 @@ I work across **Python/C++/SQL**, **PyTorch/TensorFlow/Keras**, **LangChain/Lang
 
 | Project | Description | Tech Stack | Highlights |
 |---------|-------------|------------|------------|
+| **[NexusAI Support — Multi-Agent Customer Intelligence](https://github.com/pranavpawar2103/nexus-ai-support)** | Multi-agent AI system with LangGraph supervisor routing queries across SQL, RAG, Hybrid, and General agents. Features hallucination-proof citation verification, MCP server, and full PDF ingestion pipeline. [▶ Demo](https://youtu.be/YbzOdciY5Jc) | LangGraph, LangChain, GPT-4o, ChromaDB, SQLite, Gradio, FastMCP | 4-agent architecture<br>Citation cross-validation<br>Hybrid DB + policy queries<br>MCP server integration |
 | **[DocIntel - RAG Q&A System](https://github.com/pranavpawar2103/docintel)** | Production RAG system processing multi-format documents with intelligent semantic chunking | Python, FastAPI, ChromaDB, OpenAI, Streamlit | 85%+ answer accuracy<br>90%+ retrieval precision<br>Sub-3-second latency<br>~$0.01 per 100 queries |
 | **[Vision-Language Assistant](https://github.com/pranavpawar2103/vision-language-assistant)** | Production vision-language pipeline for automated product descriptions | Python, PyTorch, BLIP-2, YOLOv8, Claude API, FastAPI | 10x cost reduction ($0.007/image)<br>4.2/5 quality score<br>89% detection accuracy<br>2s processing time |
 
