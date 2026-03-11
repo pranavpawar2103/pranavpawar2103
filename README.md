@@ -107,17 +107,17 @@ I work across **Python/C++/SQL**, **PyTorch/TensorFlow/Keras**, **LangChain/Lang
 - Led development of real-time fish behavior prediction system using CNNs and computer vision, improving detection accuracy by 25%
 - Leveraged GPU-accelerated CUDA to reduce model training time by 40%
 - Analyzed 100+ hours of zebrafish interaction videos, extracting key behaviors using Python and OpenCV
-- Built custom tracking algorithm achieving 98% individual fish identification accuracy
+- Built a custom tracking algorithm, achieving 98% individual fish identification accuracy
 
 **Systems Software Intern — Ford, Canada** *(Jan 2024 - Apr 2024)*  
 - Automated test case analysis by building Python scripts to process 1,200+ test cases, saving 10+ hours/week
-- Developed real-time reporting dashboards achieving 78% faster analysis and 92% test coverage
+- Developed real-time reporting dashboards, achieving 78% faster analysis and 92% test coverage
 - Tracked Approved, In-Progress, and Completed test cases for automation readiness
 
 **AI Engineer Intern — StandardWings Technologies, India** *(Jan 2021 - Dec 2022)*  
 - Developed and deployed ML models for IoT-based healthcare applications, achieving 92% accuracy and reducing false positives by 30%
 - Built secure RESTful APIs and automated data pipelines, enhancing processing efficiency by 60%
-- Collaborated on production systems including RAMAC App and smart health monitoring platforms
+- Collaborated on production systems, including RAMAC App and smart health monitoring platforms
 
 **Software Engineer Intern — Siemens, India** *(Dec 2021 - Feb 2022)*  
 - Automated relay inventory management using Python, reducing manual errors by 50%
