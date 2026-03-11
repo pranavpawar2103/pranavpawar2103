@@ -1,5 +1,3 @@
-<img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="100%"/>
-
 <h1 align="center">Hi 👋, I'm Pranav Pawar</h1>
 
 <p align="center">
