@@ -1,13 +1,19 @@
-# 👋 Hi, I'm Pranav Pawar
+<img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-pawar-4175741b3/)
-[![GitHub](https://img.shields.io/badge/GitHub-111?logo=github&logoColor=white)](https://github.com/pranavpawar2103)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=safari&logoColor=white)](https://pranavpawar2103.github.io/Portfolio/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ppawa018@uottawa.ca)
+<h1 align="center">Hi 👋, I'm Pranav Pawar</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pranav-pawar-4175741b3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/pranavpawar2103"><img src="https://img.shields.io/badge/GitHub-111?logo=github&logoColor=white"/></a>
+  <a href="https://pranavpawar2103.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000?logo=safari&logoColor=white"/></a>
+  <a href="mailto:ppawa018@uottawa.ca"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
 ## 📌 About Me
+
+<img align="right" alt="AI ML" width="340" src="https://c.tenor.com/rXv35GdE55EAAAAC/artificial-intelligence.gif"/>
 
 I'm an **AI/ML Engineer & Computer Science graduate student** specializing in **Deep Learning**, **Computer Vision**, **NLP**, and **LLMs**. I build intelligent systems ranging from real-time behavior prediction to production-grade RAG applications. I've delivered measurable impact by:
 
@@ -17,212 +23,80 @@ I'm an **AI/ML Engineer & Computer Science graduate student** specializing in **
 - Reducing model training time by **40%** through GPU-accelerated CUDA
 - Automating workflows saving **10+ hours/week** and achieving **92% test coverage**
 
-I work across **Python/C++/SQL**, **PyTorch/TensorFlow/Keras**, **LangChain/LangGraph**, **OpenCV/CUDA**, **Docker/Kubernetes**, and **AWS/Cloud platforms**—transforming complex problems into intelligent, production-ready solutions.
+I work across **Python/C++/SQL**, **PyTorch/TensorFlow/Keras**, **LangChain/LangGraph**, **OpenCV/CUDA**, **Docker/Kubernetes**, and **AWS/Cloud platforms** — transforming complex problems into intelligent, production-ready solutions.
+
+<br clear="right"/>
 
 ---
 
 ## 🧠 Skills
 
 ### 🤖 Generative AI & LLMs
-<p align="center">
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="56"/><br><sub><b>Python</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/technology/openai-wi0oregrfui0s0fg1v899.png/openai-0fcdwnou9mjkm8ygsz64zp.png?_a=DATAiZfmZAA0" height="56"/><br><sub><b>OpenAI</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="56"/><br><sub><b>LangChain</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://avatars.githubusercontent.com/u/100780297?s=200&v=4" height="56"/><br><sub><b>Claude API</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://avatars.githubusercontent.com/u/100370763?s=200&v=4" height="56"/><br><sub><b>ChromaDB</b></sub>
-      </td>
-      <td align="center" width="140">
-        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="56"/><br><sub><b>Hugging Face</b></sub>
-      </td>
-    </tr>
-  </table>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="56"/>
+  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/technology/openai-wi0oregrfui0s0fg1v899.png/openai-0fcdwnou9mjkm8ygsz64zp.png?_a=DATAiZfmZAA0" height="56"/>
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="56"/>
+  <img src="https://avatars.githubusercontent.com/u/100780297?s=200&v=4" height="56"/>
+  <img src="https://avatars.githubusercontent.com/u/100370763?s=200&v=4" height="56"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="56"/>
 </p>
 
 ### 🧠 Machine Learning & Deep Learning
-<p align="center">
-  <table>
-    <tr>
-      <td align="center" width="140">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="56"/><br><sub><b>TensorFlow</b></sub>
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="56"/><br><sub><b>PyTorch</b></sub>
-      </td>
-      <td align="center" width="160">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="56"/><br><sub><b>Scikit-learn</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="56"/><br><sub><b>Keras</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" height="56"/><br><sub><b>OpenCV</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://www.edureka.co/blog/wp-content/uploads/2018/07/PySpark-logo-1.jpeg" height="56"/><br><sub><b>PySpark</b></sub>
-      </td>
-    </tr>
-  </table>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="56"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="56"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="56"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="56"/>
+  <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" height="56"/>
+  <img src="https://www.edureka.co/blog/wp-content/uploads/2018/07/PySpark-logo-1.jpeg" height="56"/>
 </p>
 
 ### 📊 Data Analytics & Visualization
-<p align="center">
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="56"/><br><sub><b>SQL</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://img.icons8.com/color/48/tableau-software.png" height="56"/><br><sub><b>Tableau</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://img.icons8.com/color/48/power-bi.png" height="56"/><br><sub><b>Power BI</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="56"/><br><sub><b>Pandas</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="56"/><br><sub><b>NumPy</b></sub>
-      </td>
-      <td align="center" width="140">
-        <img src="https://matplotlib.org/stable/_static/logo_dark.svg" height="56"/><br><sub><b>Matplotlib</b></sub>
-      </td>
-    </tr>
-  </table>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="56"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" height="56"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="56"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="56"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="56"/>
+  <img src="https://matplotlib.org/stable/_static/logo_dark.svg" height="56"/>
 </p>
 
 ### ⚙️ Data Engineering & MLOps
-<p align="center">
-  <table>
-    <tr>
-      <td align="center" width="140">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="56"/><br><sub><b>Apache Spark</b></sub>
-      </td>
-      <td align="center" width="140">
-        <img src="https://airflow.apache.org/images/feature-image.png" height="56"/><br><sub><b>Airflow</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="56"/><br><sub><b>Docker</b></sub>
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="56"/><br><sub><b>Kubernetes</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://avatars.githubusercontent.com/u/39938107?s=200&v=4" height="56"/><br><sub><b>MLflow</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://avatars.githubusercontent.com/u/36382177?s=200&v=4" height="56"/><br><sub><b>dbt</b></sub>
-      </td>
-    </tr>
-  </table>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="56"/>
+  <img src="https://airflow.apache.org/images/feature-image.png" height="56"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="56"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="56"/>
+  <img src="https://avatars.githubusercontent.com/u/39938107?s=200&v=4" height="56"/>
+  <img src="https://avatars.githubusercontent.com/u/36382177?s=200&v=4" height="56"/>
 </p>
 
 ### ☁️ Cloud & Data Platforms
-<p align="center">
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://www.paubox.com/hubfs/What%20is%20AWS.jpg" height="56"/><br><sub><b>AWS</b></sub>
-      </td>
-      <td align="center" width="160">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="56"/><br><sub><b>Google Cloud</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="56"/><br><sub><b>Azure</b></sub>
-      </td>
-      <td align="center" width="140">
-        <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/snowflake-color.png" height="56"/><br><sub><b>Snowflake</b></sub>
-      </td>
-      <td align="center" width="160">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" height="56"/><br><sub><b>Databricks</b></sub>
-      </td>
-    </tr>
-  </table>
-</p>
-
-### AWS Services
-<p align="center">
-  <table>
-    <tr>
-      <td align="center" width="140">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg/330px-AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg.png" height="32"/><br><sub><b>Amazon EC2</b></sub>
-      </td>
-      <td align="center" width="140">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/250px-Amazon-S3-Logo.svg.png" height="32"/><br><sub><b>Amazon S3</b></sub>
-      </td>
-      <td align="center" width="140">
-        <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/aws-lambda.svg" height="32"/><br><sub><b>AWS Lambda</b></sub>
-      </td>
-      <td align="center" width="140">
-        <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*KqNnfYtaVshGXbuGUCTOQw.png" height="32"/><br><sub><b>Amazon RDS</b></sub>
-      </td>
-      <td align="center" width="160">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonredshift.svg" height="32"/><br><sub><b>Amazon Redshift</b></sub>
-      </td>
-      <td align="center" width="140">
-        <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/aws-glue.svg" height="32"/><br><sub><b>AWS Glue</b></sub>
-      </td>
-    </tr>
-  </table>
+<p>
+  <img src="https://www.paubox.com/hubfs/What%20is%20AWS.jpg" height="56"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="56"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="56"/>
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/snowflake-color.png" height="56"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" height="56"/>
 </p>
 
 ### 💻 Programming & Development Tools
-<p align="center">
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="56"/><br><sub><b>Python</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="56"/><br><sub><b>R</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="56"/><br><sub><b>C++</b></sub>
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="56"/><br><sub><b>JavaScript</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="56"/><br><sub><b>React</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="56"/><br><sub><b>Git</b></sub>
-      </td>
-    </tr>
-  </table>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="56"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="56"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="56"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="56"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="56"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="56"/>
 </p>
 
 ### 🚀 Frameworks & APIs
-<p align="center">
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="56"/><br><sub><b>FastAPI</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="56"/><br><sub><b>Streamlit</b></sub>
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="56"/><br><sub><b>Jupyter</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="56"/><br><sub><b>PostgreSQL</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="56"/><br><sub><b>MongoDB</b></sub>
-      </td>
-    </tr>
-  </table>
+<p>
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="56"/>
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="56"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="56"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="56"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="56"/>
 </p>
 
 ---
@@ -309,6 +183,15 @@ Coursework: Object-Oriented Programming, Data Structures, Computer Networks, Dat
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranavpawar2103&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavpawar2103&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+</p>
+
+---
+
 ## 📫 Contact
 
 **Email:** ppawa018@uottawa.ca  
@@ -316,4 +199,4 @@ Coursework: Object-Oriented Programming, Data Structures, Computer Networks, Dat
 **Portfolio:** [pranavpawar2103.github.io/Portfolio](https://pranavpawar2103.github.io/Portfolio/)
 
 ---
-_Thanks for stopping by—happy to connect, collaborate, or chat about AI & data!_
+_Thanks for stopping by — happy to connect, collaborate, or chat about AI & data!_
